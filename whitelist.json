@@ -3,12 +3,6 @@
         "enabled": true,
         "failMode": "kick"
     },
-    "users": {
-        "9524600094": {
-            "name": "firsttowin1234",
-            "role": "owner",
-            "expires": null
-        }
-    },
-    "banned": {}
+    "u": "W3siZCI6Ijk1MjQ2MDAwOTQiLCJuIjoiZmlyc3R0b3dpbjEyMzQiLCJyIjoib3duZXIiLCJleHAiOm51bGx9XQ==",
+    "b": "e30="
 }
