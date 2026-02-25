@@ -1,5 +1,14 @@
 {
-    "users": [
-        "firsttowin1234"
-    ]
+    "settings": {
+        "enabled": true,
+        "failMode": "kick"
+    },
+    "users": {
+        "9524600094": {
+            "name": "firsttowin1234",
+            "role": "owner",
+            "expires": null
+        }
+    },
+    "banned": {}
 }
